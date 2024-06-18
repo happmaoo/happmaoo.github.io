@@ -671,7 +671,7 @@ li.hashed-tag {
 
 #header {
   min-width: 320px;
-  margin-bottom: 1rem; }
+  margin-bottom: 0; }
   #header .row {
     height: 100%; }
   #header .container {
